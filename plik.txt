@@ -1,1 +1,3 @@
 Wprowadzony tekst.
+
+Dopisuje drugą linię tekstu w moim pliku.
