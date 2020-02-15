@@ -5,6 +5,7 @@ Dopisuje drugą linię tekstu w moim pliku.
 Kolejna zmiana. Dopisuję tekst.
 
 bkabkabka
+<<<<<<< HEAD
 
 
 KOlejna linia dopisana.
@@ -12,3 +13,5 @@ KOlejna linia dopisana.
 
 eksperymentalana funkcjonalność
 
+=======
+>>>>>>> parent of e5352ba... dopisana 5 linia
